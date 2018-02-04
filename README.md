@@ -9,5 +9,5 @@ please modify it follow your develop environment:
 
 Finally,execute below command
 ```shell script
-sh auto_dd_usb
+sh auto_dd_usb.sh
 ```
